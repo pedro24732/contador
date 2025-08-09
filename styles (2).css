@@ -1,0 +1,19 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #222;
+  color: #ffcc00;
+  font-family: Monospace;
+  font-size: 2em;
+  text-align: center;
+  
+}
+
+#contador {
+  border: 2px solid #ffcc00;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px #ffcc00 ;
+}
